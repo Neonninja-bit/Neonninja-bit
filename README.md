@@ -46,3 +46,14 @@ I only accept **Gmails**. If you send me a Yahoo, it’s going straight to the v
 ---
 
 ✍️ *Also… I made this with AI, cause why not?* 😏
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🔥;Always+learning+new+things...;Building+Deckium+Bot+🤖;Exploring+Cloudsurfe+☁️" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:ff00ff&height=120&section=footer" alt="footer wave"/>
+</p>
+
