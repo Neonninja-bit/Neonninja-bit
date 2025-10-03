@@ -15,20 +15,31 @@
 ---
 
 ## 🛠 Tech Stack
+---
+
 ```js
 const stack = {
    code: ["JavaScript", "HTML", "CSS"],
    tools: ["Node.js", "Photoshop", "Git"],
    learning: ["CloudSurfe", "Kotlin", "Discord.JS Bots"]
-}
-📬 Contact Me
-💌 Only through Gmail — I’m old-school like that:
-👉 sarithbas@gmail.com
+}```
 
-🌟 Fun Fact
+## 📬 Contact Me
+
+---
+
+💌 Only through Gmail — I’m old-school like that:
+
+### 👉 sarithbas@gmail.com
+
+##🌟 Fun Fact
+---
 I only accept Gmails. If you send me a Yahoo, it’s going straight to the void 🕳️
 
 ⚡ Projects
+---
 Deckium Bot 🤖 – My main project (Discord bot magic)
 
 Cloudsurfe ☁️ – Experimenting with something big
+
+Also Bro I made this with AI Cause Why NOT?
