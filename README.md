@@ -1,6 +1,34 @@
-Hi Hello Guys Myself Is Under Construction and Needs to Be Updated, Btw
+# 👋 Hey, I'm Sarith!  
 
-I'm a **JS Developer** Who's creating Bots and stuff
-Also, I'm doing **HTML / CSS** Stuff 
-Not only that, I Love to be always on Photoshop and love to Play MC. Send your thought on ME in Gmail. I only accept Gmails hehe. sarithbas@gmail.com
--# I just wanna say this I'm creating a bot called Deckium and TRYING Cloudsurfe...
+🚧 **Currently Under Construction** (but always upgrading 😎)  
+
+---
+
+## 🚀 About Me
+- 💻 JavaScript Developer — building **bots** and cool web stuff  
+- 🎨 Frontend Enthusiast — HTML / CSS wizardry ✨  
+- 🖌 Photoshop addict — I make pixels scream  
+- 🎮 Gamer — Minecraft is my comfort zone  
+- 📡 Trying out **Cloudsurfe** ☁️  
+- 🤖 Creating **Deckium Bot** ⚡  
+
+---
+
+## 🛠 Tech Stack
+```js
+const stack = {
+   code: ["JavaScript", "HTML", "CSS"],
+   tools: ["Node.js", "Photoshop", "Git"],
+   learning: ["CloudSurfe", "Kotlin", "Discord.JS Bots"]
+}
+📬 Contact Me
+💌 Only through Gmail — I’m old-school like that:
+👉 sarithbas@gmail.com
+
+🌟 Fun Fact
+I only accept Gmails. If you send me a Yahoo, it’s going straight to the void 🕳️
+
+⚡ Projects
+Deckium Bot 🤖 – My main project (Discord bot magic)
+
+Cloudsurfe ☁️ – Experimenting with something big
