@@ -40,7 +40,8 @@ I only accept **Gmails**. If you send me a Yahoo, it’s going straight to the v
 
 ## ⚡ Projects
 - **Deckium Bot** 🤖 – My main project (Discord bot magic)  
-- **Cloudsurfe** ☁️ – Experimenting with something big  
+- **Cloudsurfe** ☁️ – Experimenting with something big
+- **Forge Host** - I want to Spoil This People!
 
 ---
 
