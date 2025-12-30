@@ -1,16 +1,14 @@
 # 👋 Hey, I'm Sarith!  
 
-🚧 **Currently Under Construction** (but always upgrading 😎)  
-
 ---
 
 ## 🚀 About Me
-- 💻 JavaScript Developer — building **bots** and cool web stuff  
-- 🎨 Frontend Enthusiast — HTML / CSS wizardry ✨  
+- 💻 Kotlin Developer - currently creating an app for my country!
+- 🎨 Frontend Enthusiast — **Figma**
 - 🖌 Photoshop addict — I make pixels scream  
 - 🎮 Gamer — Minecraft is my comfort zone  
-- 📡 Trying out **Cloudsurfe** ☁️  
-- 🤖 Creating **Deckium Bot** ⚡  
+- 📡 Trying out **Waste Track App**
+- 🤖 Learning **Kotlin** 
 
 
 
@@ -25,9 +23,8 @@
 
 ```js
 const stack = {
-   code: ["JavaScript", "HTML", "CSS"],
-   tools: ["Node.js", "Photoshop", "Git"],
-   learning: ["CloudSurfe", "Kotlin", "Discord.JS Bots"]
+   code: ["JavaScript", "Kotlin", "React Native"],
+   learning: ["Kotlin", "Discord.JS"]
 }
 ```
 
@@ -46,9 +43,8 @@ I only accept **Gmails**. If you send me a Yahoo, it’s going straight to the v
 ---
 
 ## ⚡ Projects
-- **Deckium Bot** 🤖 – My main project (Discord bot magic)  
-- **Cloudsurfe** ☁️ – Experimenting with something big
-- **Forge Host** - I want to Spoil This People!
+- **Waste Track** 🤖 – My Main Project for now, Waste Track! 
+- **Deckium** - Currently on Pause...
 
 ---
 
